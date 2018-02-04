@@ -158,10 +158,6 @@ path-is-absolute@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
-ramda@^0.25.0:
-  version "0.25.0"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
-
 reify@^0.13.7:
   version "0.13.7"
   resolved "https://registry.yarnpkg.com/reify/-/reify-0.13.7.tgz#905db9e14f0c3d34cbcdf1a80dfb68d654c71d7c"
